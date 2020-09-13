@@ -6,7 +6,7 @@ This file may help your PYNQ connect to the Internet . Other options will be add
 ```sh
 ping www.baidu.com
 ```
-如果没有相应，右击屏幕右下方的网络，选择“打开网络和Internet设置”  
+如果没有响应，右击屏幕右下方的网络，选择“打开网络和Internet设置”  
 点击更改适配器选项  
 
 ![images](https://github.com/xy1802/PYNQ_study_CN/blob/master/open.png)
