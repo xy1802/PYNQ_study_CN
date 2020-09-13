@@ -1,5 +1,5 @@
 # PYNQ_study_CN
-This file may help your PYNQ connect to the Internet . Other options will be added later.
+This file may help your PYNQ connect to the Internet . Other options will be added later.  
 这个教程会教你如何使PYNQ-z2联网，
 # 让PYNQ-Z2 连接上网络的方法  
 首先ping一下外网，看看PYNQ板是否能联网  
