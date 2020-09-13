@@ -11,7 +11,7 @@ ping www.baidu.com
 
 ![images](https://github.com/xy1802/PYNQ_study_CN/blob/master/open.png)
 |:--:| 
-|选择适配器设置|
+|选择更改适配器选项|
 
 选择你正在使用的网络  
 点击属性，打开共享  
