@@ -8,6 +8,11 @@ ping www.baidu.com
 ```
 如果没有相应，右击屏幕右下方的网络，选择“打开网络和Internet设置”  
 点击更改适配器选项  
+
+![images](https://github.com/xy1802/PYNQ_study_CN/blob/master/open.png)
+|:--:| 
+|选择适配器设置|
+
 选择你正在使用的网络  
 点击属性，打开共享  
 勾选共享 并选择PYNQ的网络端口  
