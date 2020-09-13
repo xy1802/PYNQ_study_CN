@@ -11,7 +11,7 @@ ping www.baidu.com
 选择你正在使用的网络  
 点击属性，打开共享  
 勾选共享 并选择PYNQ的网络端口  
-![images]()
+![images]("https://github.com/xy1802/PYNQ_study_CN/blob/master/net.png")
 |:--:| 
 |共享后的显示|
 最后，再ping 一下看看能否上外网 
