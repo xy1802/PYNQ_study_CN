@@ -17,7 +17,7 @@ ping www.baidu.com
 
 最后，再ping 一下看看能否上外网 
 
-![images]()
+![images](https://github.com/xy1802/PYNQ_study_CN/blob/master/success.png)
 |:--:| 
 |成功联网|
 
