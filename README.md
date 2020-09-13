@@ -3,7 +3,7 @@ This file may help your PYNQ connect to the Internet . Other options will be add
 这个教程会教你如何使PYNQ-z2联网，
 # 让PYNQ-Z2 连接上网络的方法  
 首先ping一下外网，看看PYNQ板是否能联网  
-'''
+'''sh
 ping baidu.com
 '''  
 如果没有相应，右击屏幕右下方的网络，选择“打开网络和Internet设置”  
