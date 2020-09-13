@@ -14,7 +14,11 @@ ping www.baidu.com
 |选择更改适配器选项|
 
 选择你正在使用的网络  
-点击属性，打开共享  
+点击属性，打开共享 
+![images](https://github.com/xy1802/PYNQ_study_CN/blob/master/share.png)
+|:--:| 
+|共享后的显示|
+
 勾选共享 并选择PYNQ的网络端口  
 ![images](https://github.com/xy1802/PYNQ_study_CN/blob/master/net.png)
 |:--:| 
